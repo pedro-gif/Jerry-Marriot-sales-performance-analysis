@@ -1,4 +1,4 @@
-<img width="1087" height="87" alt="image" src="https://github.com/user-attachments/assets/5ebffb65-a0d1-493c-ab9b-eec668ae9e26" /><img width="430" height="81" alt="image" src="https://github.com/user-attachments/assets/8c507fd7-5406-400d-acc5-62aa35af1e4d" /><img width="1311" height="81" alt="image" src="https://github.com/user-attachments/assets/d2149934-1743-4312-8050-93cc49dc6091" /># Pool Bar Sales Performance Analysis
+### Pool Bar Sales Performance Analysis
 
 ## Project Overview
 
