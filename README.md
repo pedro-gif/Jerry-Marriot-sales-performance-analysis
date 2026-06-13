@@ -12,7 +12,7 @@ The primary objective of this project is to assess the performance of the hotel'
 
 - How much revenue did the pool bar generate?
 - Which products contributed the most to sales?
-- What are the least performing products?
+- What is the stock turnover rate?
 - Which beverage categories perform best?
 - What opportunities exist to improve revenue and customer experience?
 
